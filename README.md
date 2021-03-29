@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Canadian software engineer living & working London Ontario. I’ve spent most of my career building big things in small boxes. I’ve used an eclectic mix of languages along the way. I’m currently aspiring to build a stable of side projects while working full-time and raising a family.
+I am a Canadian software engineer living & working London Ontario 🇨🇦. I’ve spent most of my career building big things in small boxes. I’ve used an eclectic mix of languages along the way. I’m currently aspiring to build a stable of side projects while working full-time and raising a family.
 
 <!--
 **khendry/khendry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
